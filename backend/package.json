@@ -1,7 +1,7 @@
 {
   "name": "app-pan-castillo",
   "version": "0.1.0",
-  "description": "",
+  "description": "App de entregas Pan Castillo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
